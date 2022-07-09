@@ -266,3 +266,6 @@ C:\DotnetCore Assignment\DotnetCore\CodeBaseTest-5\CodeBaseTest-5\obj\Debug\net6
 C:\DotnetCore Assignment\DotnetCore\CodeBaseTest-5\CodeBaseTest-5\obj\Debug\net6.0\ref\CodeBaseTest-5.dll
 C:\DotnetCore Assignment\DotnetCore\CodeBaseTest-5\CodeBaseTest-5\obj\Debug\net6.0\CodeBaseTest-5.pdb
 C:\DotnetCore Assignment\DotnetCore\CodeBaseTest-5\CodeBaseTest-5\obj\Debug\net6.0\CodeBaseTest-5.genruntimeconfig.cache
+C:\DotNet Core\Code Base5\CodeBaseTest-5\CodeBaseTest-5\obj\Debug\net6.0\CodeBaseTest-5.dll
+C:\DotNet Core\Code Base5\CodeBaseTest-5\CodeBaseTest-5\obj\Debug\net6.0\ref\CodeBaseTest-5.dll
+C:\DotNet Core\Code Base5\CodeBaseTest-5\CodeBaseTest-5\obj\Debug\net6.0\CodeBaseTest-5.pdb
